@@ -1,1 +1,1 @@
-# NitinKohlink-Customer-Segmentation-using-clustering-model
+#Customer-Segmentation-using-clustering-model
